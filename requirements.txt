@@ -6,4 +6,5 @@ seaborn
 jupyter
 joblib
 xgboost
-streamlit     
+streamlit
+kaggle
